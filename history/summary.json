@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "name": "Hu Landing",
+    "url": "https://gethu.ai",
+    "icon": "https://icons.duckduckgo.com/ip3/gethu.ai.ico",
+    "slug": "hu-landing",
+    "status": "down",
+    "uptime": "7.11%",
+    "uptimeDay": "7.11%",
+    "uptimeWeek": "7.11%",
+    "uptimeMonth": "7.11%",
+    "uptimeYear": "7.11%",
+    "time": 202,
+    "timeDay": 202,
+    "timeWeek": 202,
+    "timeMonth": 202,
+    "timeYear": 202,
+    "dailyMinutesDown": {
+      "2026-03-17": 0
+    }
+  },
+  {
+    "name": "Hu Thread",
+    "url": "https://thread.gethu.ai",
+    "icon": "https://icons.duckduckgo.com/ip3/thread.gethu.ai.ico",
+    "slug": "hu-thread",
+    "status": "down",
+    "uptime": "9.32%",
+    "uptimeDay": "9.32%",
+    "uptimeWeek": "9.32%",
+    "uptimeMonth": "9.32%",
+    "uptimeYear": "9.32%",
+    "time": 60,
+    "timeDay": 60,
+    "timeWeek": 60,
+    "timeMonth": 60,
+    "timeYear": 60,
+    "dailyMinutesDown": {
+      "2026-03-17": 0
+    }
+  },
+  {
+    "name": "Hu Central",
+    "url": "https://central.gethu.ai",
+    "icon": "https://icons.duckduckgo.com/ip3/central.gethu.ai.ico",
+    "slug": "hu-central",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 46,
+    "timeDay": 46,
+    "timeWeek": 46,
+    "timeMonth": 46,
+    "timeYear": 46,
+    "dailyMinutesDown": {
+      "2026-03-17": 0
+    }
+  }
+]

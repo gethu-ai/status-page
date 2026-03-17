@@ -3,25 +3,101 @@ owner: gethu-ai
 repo: status-page
 
 sites:
-  - name: Hu Landing
+  - name: Hu
     url: https://gethu.ai
+    icon: https://gethu.ai/brand/white-green.png
   - name: Hu Thread
     url: https://thread.gethu.ai
+    icon: https://thread.gethu.ai/icon-192.png
   - name: Hu Central
     url: https://central.gethu.ai
+    icon: https://central.gethu.ai/icon-192.png
 
 status-website:
   cname: status.gethu.ai
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Hu Status
+  theme: light
+  # Tras el deploy, también en https://status.gethu.ai/hu-status.css
+  themeUrl: https://raw.githubusercontent.com/gethu-ai/status-page/master/assets/hu-status.css
+  logoUrl: https://gethu.ai/brand/white-green.png
+  favicon: https://gethu.ai/favicon.png
+  name: Estado Hu
   introTitle: "**Estado de los servicios Hu**"
-  introMessage: Disponibilidad de Landing, Thread y Central. Datos en tiempo casi real vía [Upptime](https://github.com/$OWNER/$REPO) (GitHub Actions + Pages).
+  introMessage: Disponibilidad de **Hu** (web), **Thread** (inbox) y **Central** (admin). Actualizado con [Upptime](https://github.com/$OWNER/$REPO) · GitHub Actions + Pages.
   navbar:
-    - title: Estado
+    - title: Inicio
       href: /
     - title: Repositorio
       href: https://github.com/$OWNER/$REPO
+    - title: gethu.ai
+      href: https://gethu.ai
+  metaTags:
+    - name: theme-color
+      content: "#00C16A"
+    - name: description
+      content: Estado en vivo de Hu, Thread y Central.
 
-# Slack: NO va en YAML. Upptime solo lee secrets de Actions (ver SETUP.md):
-# NOTIFICATION_SLACK=true, NOTIFICATION_SLACK_WEBHOOK=true, NOTIFICATION_SLACK_WEBHOOK_URL=<webhook>
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas operan con normalidad
+  incidentReport: "Informe del incidente #$NUMBER →"
+  activeIncidentSummary: Abierto el $DATE · $POSTS publicaciones
+  incidentTitle: Incidente $NUMBER
+  incidentDetails: Detalle del incidente
+  incidentFixed: Resuelto
+  incidentOngoing: En curso
+  incidentOpenedAt: Abierto el
+  incidentClosedAt: Cerrado el
+  incidentViewOnGitHub: Ver y seguir en GitHub
+  incidentCommentSummary: Publicado el $DATE por $AUTHOR
+  incidentBack: ← Volver a incidentes
+  pastIncidents: Incidentes anteriores
+  pastIncidentsResolved: Resuelto en $MINUTES min · $POSTS publicaciones
+  liveStatus: Estado en vivo
+  overallUptime: "Disponibilidad global: $UPTIME"
+  overallUptimeTitle: Disponibilidad global
+  averageResponseTime: "Tiempo de respuesta medio: $TIME ms"
+  averageResponseTimeTitle: Tiempo de respuesta
+  sevelDayResponseTime: Respuesta (7 días)
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: Operativo
+  down: Caído
+  degraded: Degradado
+  ms: ms
+  loading: Cargando…
+  navGitHub: GitHub
+  footer: Código abierto en [$REPO]($REPO) · [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Límite de consultas
+  rateLimitExceededIntro: Superaste el máximo de solicitudes por hora. Esperá un momento o usá un token de GitHub.
+  rateLimitExceededWhatDoesErrorMean: ¿Qué significa?
+  rateLimitExceededErrorMeaning: Esta página usa la API de GitHub. Sin token, cada IP tiene un límite de solicitudes por hora.
+  rateLimitExceededErrorHowCanFix: ¿Cómo lo soluciono?
+  rateLimitExceededErrorFix: Esperá una hora o añadí un Personal Access Token para más cupo.
+  rateLimitExceededGeneratePAT: Crear un token en GitHub
+  rateLimitExceededHasSet: Token configurado
+  rateLimitExceededRemoveToken: Quitar token
+  rateLimitExceededGitHubPAT: Token personal de GitHub
+  rateLimitExceededCopyPastePAT: Pegá tu token aquí
+  rateLimitExceededSaveToken: Guardar
+  errorTitle: Algo salió mal
+  errorIntro: No pudimos cargar el estado.
+  errorText: Probá de nuevo en unos segundos.
+  errorHome: Ir al inicio
+  pastScheduledMaintenance: Mantenimientos anteriores
+  scheduledMaintenance: Mantenimiento programado
+  scheduledMaintenanceSummaryStarted: Inició el $DATE · $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Comienza el $DATE · $DURATION minutos
+  startedAt: Inició
+  startsAt: Comienza
+  duration: Duración
+  durationMin: $DURATION minutos
+  incidentCompleted: Finalizado
+  incidentScheduled: Programado
+  duration24H: 24 h
+  duration7D: 7 d
+  duration30D: 30 d
+  duration1Y: 1 a
+  durationAll: todo
+  locale: es-419
+
+# Slack: secrets NOTIFICATION_SLACK_* (SETUP.md)
 # https://upptime.js.org/docs/notifications

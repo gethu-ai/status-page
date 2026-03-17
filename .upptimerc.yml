@@ -22,5 +22,6 @@ status-website:
     - title: Repositorio
       href: https://github.com/$OWNER/$REPO
 
-# Notificaciones Slack: secrets en GitHub (ver SETUP.md)
+# Slack: NO va en YAML. Upptime solo lee secrets de Actions (ver SETUP.md):
+# NOTIFICATION_SLACK=true, NOTIFICATION_SLACK_WEBHOOK=true, NOTIFICATION_SLACK_WEBHOOK_URL=<webhook>
 # https://upptime.js.org/docs/notifications

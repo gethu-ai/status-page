@@ -6,6 +6,11 @@
 
 name: Static Site CI
 on:
+  push:
+    branches: [master, main]
+    paths:
+      - ".upptimerc.yml"
+      - "assets/**"
   schedule:
     - cron: "0 1 * * *"
   repository_dispatch:

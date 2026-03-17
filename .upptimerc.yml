@@ -20,7 +20,7 @@ status-website:
   themeUrl: https://raw.githubusercontent.com/gethu-ai/status-page/master/assets/hu-status.css
   logoUrl: https://gethu.ai/brand/white-green.png
   favicon: https://gethu.ai/favicon.png
-  name: Estado Hu
+  name: Hu Status
   introTitle: "**Estado de los servicios Hu**"
   introMessage: Disponibilidad de **Hu** (web), **Thread** (inbox) y **Central** (admin). Actualizado con [Upptime](https://github.com/$OWNER/$REPO) · GitHub Actions + Pages.
   navbar:

@@ -1,5 +1,7 @@
 > **Hu:** Landing, Thread y Central. Configuración en [SETUP.md](./SETUP.md) (GH_PAT, Slack, Pages, DNS).
 
+**PWA (instalar en el celu):** Upptime no personaliza el Web Manifest desde `.upptimerc.yml`. Este repo sobrescribe con [`assets/manifest.json`](./assets/manifest.json) + `logo-192.png` / `logo-512.png` (mismo estilo que Thread). Tras cambiar marca, regenerá los PNGs (p. ej. desde `icon-512` de Thread: `curl -sL https://thread.gethu.ai/icon-512.png -o assets/logo-512.png` y `sips -z 192 192 assets/logo-512.png --out assets/logo-192.png` en macOS).
+
 # [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
 
 This repository contains the open-source uptime monitor and status page for [hu](https://gethu.ai/), powered by [Upptime](https://github.com/upptime/upptime).

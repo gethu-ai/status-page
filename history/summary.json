@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gethu.ai.ico",
     "slug": "hu-landing",
     "status": "down",
-    "uptime": "3.93%",
-    "uptimeDay": "3.93%",
-    "uptimeWeek": "3.93%",
-    "uptimeMonth": "3.93%",
-    "uptimeYear": "3.93%",
-    "time": 202,
-    "timeDay": 202,
-    "timeWeek": 202,
-    "timeMonth": 202,
-    "timeYear": 202,
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
+    "time": 229,
+    "timeDay": 229,
+    "timeWeek": 229,
+    "timeMonth": 229,
+    "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-03-17": 0
+      "2026-03-17": 14
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/thread.gethu.ai.ico",
     "slug": "hu-thread",
     "status": "down",
-    "uptime": "4.38%",
-    "uptimeDay": "4.38%",
-    "uptimeWeek": "4.38%",
-    "uptimeMonth": "4.38%",
-    "uptimeYear": "4.38%",
-    "time": 60,
-    "timeDay": 60,
-    "timeWeek": 60,
-    "timeMonth": 60,
-    "timeYear": 60,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 158,
+    "timeDay": 158,
+    "timeWeek": 158,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {
-      "2026-03-17": 0
+      "2026-03-17": 14
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/central.gethu.ai.ico",
     "slug": "hu-central",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 46,
-    "timeDay": 46,
-    "timeWeek": 46,
-    "timeMonth": 46,
-    "timeYear": 46,
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
+    "time": 83,
+    "timeDay": 83,
+    "timeWeek": 83,
+    "timeMonth": 83,
+    "timeYear": 83,
     "dailyMinutesDown": {
-      "2026-03-17": 0
+      "2026-03-17": 14
     }
   }
 ]

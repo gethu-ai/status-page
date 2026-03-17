@@ -1,0 +1,31 @@
+/* Hu — paleta alineada con landing (verde #00C16A) */
+:root {
+  --body-background-color: #f4faf7;
+  --body-text-color: #0f172a;
+  --card-background-color: #ffffff;
+  --nav-background-color: #ffffff;
+  --nav-border-bottom-color: #e2e8f0;
+  --nav-current-border-bottom-color: #00c16a;
+  --card-border-color: #e2e8f0;
+  --down-border-left-color: #e11d48;
+  --down-background-color: #fff1f2;
+  --degraded-border-left-color: #f59e0b;
+  --up-border-left-color: #00c16a;
+  --tag-up-background-color: #00c16a;
+  --tag-down-background-color: #e11d48;
+  --tag-degraded-background-color: #f59e0b;
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
+
+/* Logo navbar más legible */
+header nav a:first-child img {
+  max-height: 34px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* Título intro un poco más aireado */
+.intro .intro-title {
+  letter-spacing: -0.02em;
+}

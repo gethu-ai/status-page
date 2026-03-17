@@ -8,10 +8,10 @@ sites:
     icon: https://gethu.ai/brand/white-green.png
   - name: Hu Thread
     url: https://thread.gethu.ai
-    icon: https://thread.gethu.ai/icon-192.png
+    icon: https://thread.gethu.ai/icon-512.png
   - name: Hu Central
     url: https://central.gethu.ai
-    icon: https://central.gethu.ai/icon-192.png
+    icon: https://central.gethu.ai/icon-512.png
 
 status-website:
   cname: status.gethu.ai

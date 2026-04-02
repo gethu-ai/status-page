@@ -35,6 +35,8 @@ status-website:
       content: "#00C16A"
     - name: description
       content: Estado en vivo de Hu, Thread y Central.
+  # Barras de disponibilidad (90 d) + CSS en hu-status.css; defer para correr tras el HTML
+  customFootHtml: '<script defer src="https://raw.githubusercontent.com/gethu-ai/status-page/master/assets/hu-uptime-bars.js"></script>'
 
 i18n:
   activeIncidents: Incidentes activos

@@ -12,6 +12,9 @@ sites:
   - name: Hu Central
     url: https://central.gethu.ai
     icon: https://central.gethu.ai/icon-512.png
+  - name: Hu Agents
+    url: https://agents.gethu.ai
+    icon: https://gethu.ai/brand/white-green.png
 
 status-website:
   cname: status.gethu.ai
@@ -22,7 +25,7 @@ status-website:
   favicon: https://gethu.ai/favicon.png
   name: Hu Status
   introTitle: "**Estado de los servicios Hu**"
-  introMessage: Disponibilidad de **Hu** (web), **Thread** (inbox) y **Central** (admin). Actualizado con [Upptime](https://github.com/$OWNER/$REPO) · GitHub Actions + Pages.
+  introMessage: Disponibilidad de **Hu** (web), **Thread** (inbox), **Central** (admin) y **Agents**. Actualizado con [Upptime](https://github.com/$OWNER/$REPO) · GitHub Actions + Pages.
   navbar:
     - title: Inicio
       href: /

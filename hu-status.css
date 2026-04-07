@@ -35,17 +35,7 @@ header nav a:first-child img {
  * section.live-status viene de LiveStatus.svelte
  */
 section.live-status article h4 img.icon {
-  height: 2.75rem !important;
-  width: 2.75rem !important;
-  min-width: 2.75rem;
-  margin-right: 0.75rem !important;
-  vertical-align: middle;
-  transform: none !important;
-  object-fit: contain;
-  border-radius: 0.5rem;
-  background: #f1f5f9;
-  padding: 0.25rem;
-  box-sizing: border-box;
+  display: none !important;
 }
 
 section.live-status article h4 {

@@ -5,25 +5,21 @@ repo: status-page
 sites:
   - name: Hu
     url: https://gethu.ai
-    icon: https://gethu.ai/brand/white-green.png
     expectedStatusCodes:
       - 200
       - 403
   - name: Hu Thread
     url: https://thread.gethu.ai
-    icon: https://thread.gethu.ai/icon-512.png
     expectedStatusCodes:
       - 200
       - 403
   - name: Hu Central
     url: https://central.gethu.ai
-    icon: https://central.gethu.ai/icon-512.png
     expectedStatusCodes:
       - 200
       - 403
   - name: Hu Agents
     url: https://agents.gethu.ai
-    icon: https://gethu.ai/brand/white-green.png
     expectedStatusCodes:
       - 200
       - 403

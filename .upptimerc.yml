@@ -20,7 +20,7 @@ status-website:
   cname: status.gethu.ai
   theme: light
   # Tras el deploy, también en https://status.gethu.ai/hu-status.css
-  themeUrl: https://raw.githubusercontent.com/gethu-ai/status-page/master/assets/hu-status.css
+  themeUrl: https://cdn.jsdelivr.net/gh/gethu-ai/status-page@master/assets/hu-status.css
   logoUrl: https://gethu.ai/brand/white-green.png
   favicon: https://gethu.ai/favicon.png
   name: Hu Status
@@ -39,7 +39,7 @@ status-website:
     - name: description
       content: Estado en vivo de Hu, Thread y Central.
   # Barras de disponibilidad (90 d) + CSS en hu-status.css; defer para correr tras el HTML
-  customFootHtml: '<script defer src="https://raw.githubusercontent.com/gethu-ai/status-page/master/assets/hu-uptime-bars.js"></script>'
+  customFootHtml: '<script defer src="https://cdn.jsdelivr.net/gh/gethu-ai/status-page@master/assets/hu-uptime-bars.js"></script>'
 
 i18n:
   activeIncidents: Incidentes activos

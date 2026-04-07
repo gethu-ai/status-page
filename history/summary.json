@@ -2,7 +2,7 @@
   {
     "name": "Hu",
     "url": "https://gethu.ai",
-    "icon": "https://gethu.ai/brand/white-green.png",
+    "icon": "https://icons.duckduckgo.com/ip3/gethu.ai.ico",
     "slug": "hu",
     "status": "up",
     "uptime": "99.98%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 107,
-    "timeDay": 120,
-    "timeWeek": 86,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "time": 106,
+    "timeDay": 114,
+    "timeWeek": 85,
+    "timeMonth": 106,
+    "timeYear": 106,
     "dailyMinutesDown": {
       "2026-03-17": 7
     }
@@ -22,7 +22,7 @@
   {
     "name": "Hu Thread",
     "url": "https://thread.gethu.ai",
-    "icon": "https://thread.gethu.ai/icon-512.png",
+    "icon": "https://icons.duckduckgo.com/ip3/thread.gethu.ai.ico",
     "slug": "hu-thread",
     "status": "up",
     "uptime": "99.94%",
@@ -31,7 +31,7 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 100,
-    "timeDay": 110,
+    "timeDay": 106,
     "timeWeek": 84,
     "timeMonth": 100,
     "timeYear": 100,
@@ -42,7 +42,7 @@
   {
     "name": "Hu Central",
     "url": "https://central.gethu.ai",
-    "icon": "https://central.gethu.ai/icon-512.png",
+    "icon": "https://icons.duckduckgo.com/ip3/central.gethu.ai.ico",
     "slug": "hu-central",
     "status": "up",
     "uptime": "99.94%",
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 108,
-    "timeDay": 138,
-    "timeWeek": 111,
-    "timeMonth": 108,
-    "timeYear": 108,
+    "time": 110,
+    "timeDay": 144,
+    "timeWeek": 116,
+    "timeMonth": 110,
+    "timeYear": 110,
     "dailyMinutesDown": {
       "2026-03-17": 17
     }
@@ -62,19 +62,19 @@
   {
     "name": "Hu Agents",
     "url": "https://agents.gethu.ai",
-    "icon": "https://gethu.ai/brand/white-green.png",
+    "icon": "https://icons.duckduckgo.com/ip3/agents.gethu.ai.ico",
     "slug": "hu-agents",
     "status": "up",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 72,
-    "timeDay": 72,
-    "timeWeek": 72,
-    "timeMonth": 72,
-    "timeYear": 72,
+    "uptime": "21.17%",
+    "uptimeDay": "21.17%",
+    "uptimeWeek": "21.17%",
+    "uptimeMonth": "21.17%",
+    "uptimeYear": "21.17%",
+    "time": 81,
+    "timeDay": 81,
+    "timeWeek": 81,
+    "timeMonth": 81,
+    "timeYear": 81,
     "dailyMinutesDown": {
       "2026-04-07": 400
     }

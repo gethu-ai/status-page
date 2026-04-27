@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 221,
-    "timeDay": 928,
-    "timeWeek": 742,
-    "timeMonth": 254,
-    "timeYear": 221,
+    "time": 230,
+    "timeDay": 678,
+    "timeWeek": 826,
+    "timeMonth": 268,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2026-03-17": 7
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 240,
-    "timeDay": 1083,
-    "timeWeek": 1010,
-    "timeMonth": 290,
-    "timeYear": 240,
+    "time": 261,
+    "timeDay": 1326,
+    "timeWeek": 1188,
+    "timeMonth": 318,
+    "timeYear": 261,
     "dailyMinutesDown": {
       "2026-03-17": 17
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 272,
-    "timeDay": 2088,
-    "timeWeek": 1179,
-    "timeMonth": 329,
-    "timeYear": 272,
+    "time": 284,
+    "timeDay": 927,
+    "timeWeek": 1301,
+    "timeMonth": 350,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2026-04-17": 59,
       "2026-03-17": 17
@@ -66,16 +66,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/agents.gethu.ai.ico",
     "slug": "hu-agents",
     "status": "up",
-    "uptime": "98.51%",
+    "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "98.51%",
-    "time": 246,
-    "timeDay": 638,
-    "timeWeek": 530,
-    "timeMonth": 246,
-    "timeYear": 246,
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "98.58%",
+    "time": 255,
+    "timeDay": 472,
+    "timeWeek": 585,
+    "timeMonth": 255,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2026-04-07": 400
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 841,
-    "timeWeek": 851,
-    "timeMonth": 441,
-    "timeYear": 441,
+    "time": 455,
+    "timeDay": 683,
+    "timeWeek": 937,
+    "timeMonth": 455,
+    "timeYear": 455,
     "dailyMinutesDown": {}
   }
 ]

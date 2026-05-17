@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 359,
-    "timeDay": 659,
-    "timeWeek": 739,
-    "timeMonth": 705,
-    "timeYear": 359,
+    "time": 362,
+    "timeDay": 620,
+    "timeWeek": 720,
+    "timeMonth": 701,
+    "timeYear": 362,
     "dailyMinutesDown": {
       "2026-03-17": 7
     }
@@ -25,20 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/loop.gethu.ai.ico",
     "slug": "hu-loop",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 528,
-    "timeDay": 1257,
-    "timeWeek": 1354,
-    "timeMonth": 1142,
-    "timeYear": 528,
-    "dailyMinutesDown": {
-      "2026-05-17": 0,
-      "2026-03-17": 17
-    }
+    "uptimeYear": "100.00%",
+    "time": 300,
+    "timeDay": 300,
+    "timeWeek": 300,
+    "timeMonth": 300,
+    "timeYear": 300,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hu Central",
@@ -51,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.91%",
-    "time": 586,
-    "timeDay": 2317,
-    "timeWeek": 1779,
-    "timeMonth": 1250,
-    "timeYear": 586,
+    "time": 594,
+    "timeDay": 1762,
+    "timeWeek": 1707,
+    "timeMonth": 1249,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2026-04-17": 59,
       "2026-03-17": 17
@@ -72,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
-    "time": 377,
-    "timeDay": 552,
-    "timeWeek": 543,
-    "timeMonth": 519,
-    "timeYear": 377,
+    "time": 378,
+    "timeDay": 492,
+    "timeWeek": 529,
+    "timeMonth": 516,
+    "timeYear": 378,
     "dailyMinutesDown": {
       "2026-04-07": 400
     }
@@ -92,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 686,
-    "timeDay": 1045,
-    "timeWeek": 993,
-    "timeMonth": 845,
-    "timeYear": 686,
+    "time": 693,
+    "timeDay": 1003,
+    "timeWeek": 989,
+    "timeMonth": 849,
+    "timeYear": 693,
     "dailyMinutesDown": {}
   }
 ]

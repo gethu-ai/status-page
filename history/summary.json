@@ -20,10 +20,10 @@
     }
   },
   {
-    "name": "Hu Thread",
-    "url": "https://thread.gethu.ai",
-    "icon": "https://icons.duckduckgo.com/ip3/thread.gethu.ai.ico",
-    "slug": "hu-thread",
+    "name": "Hu Loop",
+    "url": "https://loop.gethu.ai",
+    "icon": "https://icons.duckduckgo.com/ip3/loop.gethu.ai.ico",
+    "slug": "hu-loop",
     "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "99.99%",

@@ -1,6 +1,6 @@
-> **Hu:** Landing, Thread y Central. Configuración en [SETUP.md](./SETUP.md) (GH_PAT, Slack, Pages, DNS).
+> **Hu:** Landing, Loop y Central. Configuración en [SETUP.md](./SETUP.md) (GH_PAT, Slack, Pages, DNS).
 
-**PWA (instalar en el celu):** Upptime no personaliza el Web Manifest desde `.upptimerc.yml`. Este repo sobrescribe con [`assets/manifest.json`](./assets/manifest.json) + `logo-192.png` / `logo-512.png` (mismo estilo que Thread). Tras cambiar marca, regenerá los PNGs (p. ej. desde `icon-512` de Thread: `curl -sL https://thread.gethu.ai/icon-512.png -o assets/logo-512.png` y `sips -z 192 192 assets/logo-512.png --out assets/logo-192.png` en macOS).
+**PWA (instalar en el celu):** Upptime no personaliza el Web Manifest desde `.upptimerc.yml`. Este repo sobrescribe con [`assets/manifest.json`](./assets/manifest.json) + `logo-192.png` / `logo-512.png` (mismo estilo que Loop). Tras cambiar marca, regenerá los PNGs (p. ej. desde `icon-512` de Loop: `curl -sL https://loop.gethu.ai/icon-512.png -o assets/logo-512.png` y `sips -z 192 192 assets/logo-512.png --out assets/logo-192.png` en macOS).
 
 # [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
 

@@ -24,9 +24,9 @@
     "url": "https://thread.gethu.ai",
     "icon": "https://icons.duckduckgo.com/ip3/thread.gethu.ai.ico",
     "slug": "hu-thread",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -36,6 +36,7 @@
     "timeMonth": 1142,
     "timeYear": 528,
     "dailyMinutesDown": {
+      "2026-05-17": 0,
       "2026-03-17": 17
     }
   },
@@ -66,11 +67,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/agents.gethu.ai.ico",
     "slug": "hu-agents",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.30%",
+    "uptimeYear": "99.31%",
     "time": 377,
     "timeDay": 552,
     "timeWeek": 543,

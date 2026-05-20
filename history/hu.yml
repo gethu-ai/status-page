@@ -1,7 +1,7 @@
 url: https://gethu.ai
-status: up
-code: 200
-responseTime: 573
-lastUpdated: 2026-05-20T00:01:29.213Z
+status: down
+code: 502
+responseTime: 490
+lastUpdated: 2026-05-20T17:33:28.378Z
 startTime: 2026-03-17T15:25:09.100Z
 generator: Upptime <https://github.com/upptime/upptime>

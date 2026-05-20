@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 372,
-    "timeDay": 814,
-    "timeWeek": 694,
-    "timeMonth": 698,
-    "timeYear": 372,
+    "time": 374,
+    "timeDay": 573,
+    "timeWeek": 673,
+    "timeMonth": 714,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2026-03-17": 7
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1199,
-    "timeDay": 2150,
-    "timeWeek": 1199,
-    "timeMonth": 1199,
-    "timeYear": 1199,
+    "time": 1219,
+    "timeDay": 1299,
+    "timeWeek": 1219,
+    "timeMonth": 1219,
+    "timeYear": 1219,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 627,
-    "timeDay": 2683,
-    "timeWeek": 1868,
-    "timeMonth": 1359,
-    "timeYear": 627,
+    "time": 667,
+    "timeDay": 3763,
+    "timeWeek": 2077,
+    "timeMonth": 1478,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2026-04-17": 59,
       "2026-03-17": 17
@@ -64,16 +64,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/agents.gethu.ai.ico",
     "slug": "hu-agents",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.33%",
-    "time": 385,
-    "timeDay": 634,
-    "timeWeek": 527,
-    "timeMonth": 530,
-    "timeYear": 385,
+    "uptimeYear": "99.35%",
+    "time": 386,
+    "timeDay": 417,
+    "timeWeek": 521,
+    "timeMonth": 541,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2026-04-07": 400
     }
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 712,
-    "timeDay": 1291,
-    "timeWeek": 1057,
-    "timeMonth": 892,
-    "timeYear": 712,
+    "time": 716,
+    "timeDay": 864,
+    "timeWeek": 1048,
+    "timeMonth": 917,
+    "timeYear": 716,
     "dailyMinutesDown": {}
   }
 ]

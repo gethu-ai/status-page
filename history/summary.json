@@ -13,7 +13,7 @@
     "time": 484,
     "timeDay": 767,
     "timeWeek": 695,
-    "timeMonth": 744,
+    "timeMonth": 749,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2026-03-17": 7,
@@ -34,7 +34,7 @@
     "time": 1654,
     "timeDay": 1775,
     "timeWeek": 1825,
-    "timeMonth": 1654,
+    "timeMonth": 1714,
     "timeYear": 1654,
     "dailyMinutesDown": {}
   },
@@ -43,20 +43,21 @@
     "url": "https://central.gethu.ai",
     "icon": "https://icons.duckduckgo.com/ip3/central.gethu.ai.ico",
     "slug": "hu-central",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1053,
-    "timeDay": 1663,
-    "timeWeek": 2055,
-    "timeMonth": 2131,
-    "timeYear": 1053,
+    "time": 1051,
+    "timeDay": 1283,
+    "timeWeek": 1911,
+    "timeMonth": 2122,
+    "timeYear": 1051,
     "dailyMinutesDown": {
       "2026-03-17": 17,
-      "2026-04-17": 59
+      "2026-04-17": 59,
+      "2026-06-17": 0
     }
   },
   {
@@ -73,7 +74,7 @@
     "time": 435,
     "timeDay": 461,
     "timeWeek": 487,
-    "timeMonth": 518,
+    "timeMonth": 521,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2026-04-07": 400
@@ -93,7 +94,7 @@
     "time": 861,
     "timeDay": 1120,
     "timeWeek": 1099,
-    "timeMonth": 1069,
+    "timeMonth": 1072,
     "timeYear": 861,
     "dailyMinutesDown": {}
   }

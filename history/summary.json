@@ -66,20 +66,20 @@
     "url": "https://agents.gethu.ai",
     "icon": "https://icons.duckduckgo.com/ip3/agents.gethu.ai.ico",
     "slug": "hu-agents",
-    "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.67%",
-    "time": 453,
-    "timeDay": 474,
-    "timeWeek": 577,
-    "timeMonth": 534,
-    "timeYear": 453,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "91.74%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.57%",
+    "time": 454,
+    "timeDay": 477,
+    "timeWeek": 566,
+    "timeMonth": 532,
+    "timeYear": 454,
     "dailyMinutesDown": {
       "2026-04-07": 400,
-      "2026-06-29": 0
+      "2026-06-29": 119
     }
   },
   {

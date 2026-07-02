@@ -28,6 +28,21 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
+  - name: Hu Organizations
+    url: https://organizations.gethu.ai
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Hu Providers
+    url: https://providers.gethu.ai
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Hu Agents UI
+    url: https://agents-ui.gethu.ai
+    expectedStatusCodes:
+      - 200
+      - 403
 
 status-website:
   cname: status.gethu.ai
